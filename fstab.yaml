@@ -1,1 +1,3 @@
-"source": {"url": "https://content.da.live/mnitinasts/excat-2/","type": "markup"}
+mountpoints:
+  /:
+    url: https://content.da.live/mnitinasts/excat-2/
