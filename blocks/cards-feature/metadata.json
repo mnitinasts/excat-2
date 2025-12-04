@@ -1,0 +1,42 @@
+{
+  "variantName": "cards-feature",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2025-12-04T04:33:34.000Z",
+  "sourceContext": {
+    "originUrl": "https://education.nsw.gov.au/",
+    "originPage": "NSW Department of Education homepage - wayfinder section",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "wayfinder-feature",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "heading + description + arrow icon per card",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "feature highlights without images",
+      "wayfinder/navigation cards",
+      "service listings",
+      "link collections"
+    ],
+    "notSuitableFor": [
+      "image-heavy content",
+      "news articles",
+      "product listings with photos"
+    ]
+  },
+  "usage": {
+    "pagesUsing": [
+      "/content/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2025-12-04T04:33:34.000Z"
+  }
+}
