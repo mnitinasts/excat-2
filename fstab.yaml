@@ -1,3 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/mnitinasts/excat-2/
+    url: "https://content.da.live/mnitinasts/excat-2/"
+    type: "markup"
